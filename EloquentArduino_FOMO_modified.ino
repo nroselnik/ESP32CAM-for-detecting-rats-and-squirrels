@@ -1,5 +1,5 @@
 // change the file.h over here with your own model from edge impulse. Open the arduino file from edgeimpulse, copy the .h name file and paste it here
-#include <change_2_Jan-hafiefieza-project-1_inferencing.h>
+#include <REPLACE WITH YOUR EDGE IMPLUSE MODEL.h>
 #include <eloquent_esp32cam.h>
 #include <eloquent_esp32cam/edgeimpulse/fomo.h>
 #include <FS.h>
